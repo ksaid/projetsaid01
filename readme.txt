@@ -1,1 +1,1 @@
-ceci est un fichier readme pour mon projet 
+ceci est un fichier readme pour mon projet avec git 
